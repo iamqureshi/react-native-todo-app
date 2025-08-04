@@ -23,6 +23,7 @@ type ToDoType = {
 };
 
 export default function Index() {
+  // dummy data for the examples
   const todoData = [
     {
       id: 1,
